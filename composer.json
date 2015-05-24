@@ -1,0 +1,13 @@
+{
+    "name": "ecomail/ecomail",
+    "description": "API integration for Ecomail.cz",
+    "require": {
+        "guzzlehttp/guzzle": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Ecomail.cz",
+            "email": "support@ecomail.cz"
+        }
+    ]
+}
